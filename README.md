@@ -25,10 +25,6 @@ The feature selection techniques used are:
 
 # CODING AND OUTPUT:
 ```
-NAME : P PARTHIBAN
-REG NO : 212223230145
-```
-```
 import pandas as pd
 import numpy as np
 import seaborn as sns
